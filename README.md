@@ -30,7 +30,8 @@
 
 1. [Math For AI/ML](./math_for_ai_ml.md)
 2. [AI-ML-Roadmap-from-scratch - Github](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch?tab=readme-ov-file#module-0---before-you-start)
-3. [Building a neural network FROM SCRATCH](https://www.youtube.com/watch?v=w8yWXqWQYmU)
-4. [The Elegant Math Behind Machine Learning](https://www.youtube.com/watch?v=URtF_UHYBSo)
-5. [Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://www.youtube.com/watch?v=5NgNicANyqM)
-6. [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
+3. [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLD80i8An1OEHSai9cf-Ip-QReOVW76PlB)
+4. [Building a neural network FROM SCRATCH](https://www.youtube.com/watch?v=w8yWXqWQYmU)
+5. [The Elegant Math Behind Machine Learning](https://www.youtube.com/watch?v=URtF_UHYBSo)
+6. [Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://www.youtube.com/watch?v=5NgNicANyqM)
+7. [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
