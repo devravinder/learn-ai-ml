@@ -19,6 +19,7 @@
       3. [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
       4. [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
       5. [Maths for AI and ML](https://www.youtube.com/playlist?list=PLlpUUtQ9RrF76jvALwrTp0oOGfk0EGC3s)
+      6. [Maths for Machine Learning](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
 
 2. Python
    1. basic python
