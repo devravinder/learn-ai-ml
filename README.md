@@ -14,12 +14,14 @@
    3. Probability & Statistics (random variables, distributions, hypothesis testing)
   Basic understand of gradient descent, regularization, and probabilistic models work
   Resources/References:
-      1. [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
-      2. [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-      3. [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
-      4. [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
-      5. [Maths for AI and ML](https://www.youtube.com/playlist?list=PLlpUUtQ9RrF76jvALwrTp0oOGfk0EGC3s)
-      6. [Maths for Machine Learning](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
+      1. [Statistics for Data Science & Machine Learning](https://www.youtube.com/watch?v=tcusIOfI_GM)
+      2. [Mathematics for Machine Learning Tutorial (3 Complete Courses in 1 video)](https://www.youtube.com/watch?v=0z6AhrOSrRs)
+      3. [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+      4. [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+      5. [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+      6. [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+      7. [Maths for AI and ML](https://www.youtube.com/playlist?list=PLlpUUtQ9RrF76jvALwrTp0oOGfk0EGC3s)
+      8. [Maths for Machine Learning](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
 
 2. Python
    1. basic python
