@@ -6,6 +6,7 @@
 2. [geeksforgeeks](https://www.geeksforgeeks.org/blogs/machine-learning-roadmap/) ***
 3. [roadmap.sh](https://roadmap.sh/ai-engineer)
 4. [AI ML Road Map](https://www.youtube.com/watch?v=0v0GZjLBUYk&list=PLlpUUtQ9RrF76jvALwrTp0oOGfk0EGC3s&index=33)
+5. [Data science & ML](https://www.youtube.com/watch?v=hBH8dYn2zxY&list=PLZoTAELRMXVO9MQsG_gwdaaJszxZM9HbT&index=2)
 
 ## Path
 
@@ -68,3 +69,35 @@
 - [Probability - JensenMath](https://www.youtube.com/watch?v=LgLgexX7iTs)
 - [Statistics](https://www.youtube.com/watch?v=Vfo5le26IhY) - whatched only statistic part of the video
 - [Entire Maths](https://www.youtube.com/playlist?list=PLlpUUtQ9RrF5yZ0gaUiTZ6kogQnb74Lt3)
+
+## See This
+
+- [Check](https://www.youtube.com/watch?v=PcbuKRNtCUc)
+- [Check](https://www.youtube.com/watch?v=0YdpwSYMY6I)
+- [Check](https://www.youtube.com/@NeuralNine/playlists)
+  - [ML](https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ)
+
+- [Check](https://www.youtube.com/@EasyAIForAll/videos)
+- [Check](https://www.youtube.com/@krishnaik06)
+  - [ML](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+
+- [Check-ML](https://www.youtube.com/watch?v=rLOyrWV8gmA)
+
+- [Jovian](https://www.youtube.com/@jovianhq/playlists)
+  - [Full Video](https://www.youtube.com/watch?v=hDKCxebp88A&t=91s)
+- [Machine Learning](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+- [ML](https://www.youtube.com/watch?v=JxgmHe2NyeY)
+
+## Next To Watch
+
+- [Kylie Ying](https://www.youtube.com/@KylieYYing)
+  - [ML - Maths](https://www.youtube.com/watch?v=bk12t0Xz5FM&list=PLkWv3oO4kHnu095L52vLCVK8YN33yRrd_)
+  - [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+- [ML](https://www.youtube.com/watch?v=JxgmHe2NyeY) ***
+- [ML](https://www.youtube.com/watch?v=trsyTEA22Gw&list=PLlpUUtQ9RrF5yZ0gaUiTZ6kogQnb74Lt3&index=6)
+
+##
+
+- [Kylie Ying](https://www.youtube.com/@KylieYYing)
+  - [ML - Maths](https://www.youtube.com/watch?v=bk12t0Xz5FM&list=PLkWv3oO4kHnu095L52vLCVK8YN33yRrd_)
+  - [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg)
