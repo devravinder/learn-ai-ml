@@ -6,7 +6,7 @@
 2. [geeksforgeeks](https://www.geeksforgeeks.org/blogs/machine-learning-roadmap/) ***
 3. [roadmap.sh](https://roadmap.sh/ai-engineer)
 4. [AI ML Road Map](https://www.youtube.com/watch?v=0v0GZjLBUYk&list=PLlpUUtQ9RrF76jvALwrTp0oOGfk0EGC3s&index=33)
-5. [Data science & ML](https://www.youtube.com/watch?v=hBH8dYn2zxY&list=PLZoTAELRMXVO9MQsG_gwdaaJszxZM9HbT&index=2)
+5. [Youtube & Github](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2025) ***
 
 ## Path
 
@@ -72,32 +72,50 @@
 
 ## See This
 
-- [Check](https://www.youtube.com/watch?v=PcbuKRNtCUc)
-- [Check](https://www.youtube.com/watch?v=0YdpwSYMY6I)
 - [Check](https://www.youtube.com/@NeuralNine/playlists)
-  - [ML](https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ)
+  - [ML](https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ) ***
 
-- [Check](https://www.youtube.com/@EasyAIForAll/videos)
-- [Check](https://www.youtube.com/@krishnaik06)
+- [Check](https://www.youtube.com/@krishnaik06)                                       *** some are paid
   - [ML](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+  - [ML](https://www.youtube.com/watch?v=JxgmHe2NyeY)  ***
 
 - [Check-ML](https://www.youtube.com/watch?v=rLOyrWV8gmA)
 
-- [Jovian](https://www.youtube.com/@jovianhq/playlists)
+- [Jovian](https://www.youtube.com/@jovianhq/playlists)                               *** some are paid
   - [Full Video](https://www.youtube.com/watch?v=hDKCxebp88A&t=91s)
-- [Machine Learning](https://www.youtube.com/watch?v=i_LwzRVP7bg)
-- [ML](https://www.youtube.com/watch?v=JxgmHe2NyeY)
 
 ## Next To Watch
 
-- [Kylie Ying](https://www.youtube.com/@KylieYYing)
-  - [ML - Maths](https://www.youtube.com/watch?v=bk12t0Xz5FM&list=PLkWv3oO4kHnu095L52vLCVK8YN33yRrd_)
-  - [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg)
-- [ML](https://www.youtube.com/watch?v=JxgmHe2NyeY) ***
 - [ML](https://www.youtube.com/watch?v=trsyTEA22Gw&list=PLlpUUtQ9RrF5yZ0gaUiTZ6kogQnb74Lt3&index=6)
+- [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+- [ML](https://www.youtube.com/watch?v=JxgmHe2NyeY) ***
+- [9th Grade Student - ML](https://www.youtube.com/watch?v=NWONeJKn6kc)
+      [Check Full](https://www.youtube.com/@Neweraa/playlists)
 
 ##
 
 - [Kylie Ying](https://www.youtube.com/@KylieYYing)
   - [ML - Maths](https://www.youtube.com/watch?v=bk12t0Xz5FM&list=PLkWv3oO4kHnu095L52vLCVK8YN33yRrd_)
   - [ML](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+
+## Do This
+
+- watch this to revision - 27 Min
+   [Essential Machine Learning and AI Concepts Animated](https://www.youtube.com/watch?v=PcbuKRNtCUc)
+
+- Algos - 34 Min
+   [ML Algos](https://www.youtube.com/watch?v=BUTjcAjfMgY)
+
+- AI Model revision
+   [All Machine Learning Models Clearly Explained!](https://www.youtube.com/watch?v=0YdpwSYMY6I)
+
+- Check this for individual concepts
+  [AI For Beginners](https://www.youtube.com/@EasyAIForAll/videos)
+
+- [Freecode Camp - ML](https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
+
+## Full Course
+
+- [Siddhardhan](https://www.youtube.com/watch?v=LcWFedjaR4Q&list=PLfFghEzKVmjvII5ZcBnFWQOUjtUVdDnmo)
+- [AI - Harvard CS50’s](https://www.youtube.com/watch?v=5NgNicANyqM&t=91s)
+- [codebasics](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) ****
